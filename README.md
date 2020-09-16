@@ -12,19 +12,6 @@
 
 
 
-<div align="center">  
-    
-[![License][license-badge]][license-url]
-![Git Stars][star-badge]
-[![Netfly Stats][netfly-badge]][netfly-url]
-[![Netfly Stats][proffy-apk-badge]][proffy-apk-url]
-![NLW Stats][nlw-badge]
-![Codacy Quality][codacy-badge]
-
-
-</div>
-
-
 ### Content
 * [Getting Started](#Getting-Started-)
     * [Cloning](#Cloning)
